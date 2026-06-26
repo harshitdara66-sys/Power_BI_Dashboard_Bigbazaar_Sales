@@ -20,7 +20,6 @@ The dashboard enables management to monitor business performance through dynamic
 
 It transforms raw sales data into meaningful business insights that support data-driven decision making.
 
-![image alt](https://github.com/harshitdara66-sys/Power_BI_Dashboard_Bigbazaar_Sales/blob/4bf00ed43d70bcd1ac01e40742a57cf683a59cac/Harshit_Big%20Bazaar%20Dashboard.png)
 ---
 
 # 🎯 Business Objectives
@@ -169,7 +168,8 @@ assets/
 Example:
 
 ```markdown
-![Dashboard](assets/dashboard.png)
+![image alt](https://github.com/harshitdara66-sys/Power_BI_Dashboard_Bigbazaar_Sales/blob/4bf00ed43d70bcd1ac01e40742a57cf683a59cac/Harshit_Big%20Bazaar%20Dashboard.png)
+
 ```
 
 ---
