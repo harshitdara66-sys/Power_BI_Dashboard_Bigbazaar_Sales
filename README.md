@@ -20,6 +20,7 @@ The dashboard enables management to monitor business performance through dynamic
 
 It transforms raw sales data into meaningful business insights that support data-driven decision making.
 
+![image alt]()
 ---
 
 # 🎯 Business Objectives
